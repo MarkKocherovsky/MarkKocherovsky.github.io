@@ -1,0 +1,5 @@
+.grid-sizer,
+.gutter-sizer { width: 4%; }
+.grid-item { width: 20%; }
+/* 2 columns wide */
+.grid-item--width2 { width: 40%; }
